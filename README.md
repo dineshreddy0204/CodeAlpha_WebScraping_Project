@@ -82,18 +82,20 @@ To visually represent insights from the dataset for better understanding.
 Install all required libraries using:
 ```bash
 pip install -r requirements.txt
-🚀 How to Run the Project
+
+-🚀 How to Run the Project
 Run the scripts in the following order:
 python scraper.py
 python eda.py
 python visualization.py
-🎯 Key Learnings
+-🎯 Key Learnings
 Web scraping using Python
 Data cleaning and preprocessing
 Exploratory data analysis techniques
 Data visualization using Matplotlib
 Git and GitHub version control
-📌 Internship Information
+-📌 Internship Information
 Internship: CodeAlpha – Data Analytics
 Tasks Completed: Task 1, Task 2, Task 3
 Project Status: ✅ Successfully Completed
+
