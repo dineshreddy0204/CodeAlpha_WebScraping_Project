@@ -1,0 +1,15 @@
+EDA REPORT
+==================================================
+Total Records: 1000
+                    Book Title Price (£) Rating         Page
+count                     1000      1000   1000  1000.000000
+unique                     999       903      5          NaN
+top     The Star-Touched Queen    Â44.18    One          NaN
+freq                         2         3    226          NaN
+mean                       NaN       NaN    NaN    25.500000
+std                        NaN       NaN    NaN    14.438091
+min                        NaN       NaN    NaN     1.000000
+25%                        NaN       NaN    NaN    13.000000
+50%                        NaN       NaN    NaN    25.500000
+75%                        NaN       NaN    NaN    38.000000
+max                        NaN       NaN    NaN    50.000000
